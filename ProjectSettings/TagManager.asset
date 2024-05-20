@@ -44,9 +44,9 @@ TagManager:
   - name: Obstracle
     uniqueID: 1373767713
     locked: 0
-  - name: Player
-    uniqueID: 3117858761
-    locked: 0
   - name: BackGround
     uniqueID: 354722663
+    locked: 0
+  - name: Player
+    uniqueID: 3117858761
     locked: 0

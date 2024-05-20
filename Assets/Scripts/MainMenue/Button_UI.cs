@@ -7,7 +7,7 @@ public class Button_UI : MonoBehaviour
 {
     public void OnClick_PlayButton()
     {
-        SceneManager.LoadScene("GamePlay");
+        SceneManager.LoadScene("Level 1");
     }
 
     public void OnClick_AMXButton()
